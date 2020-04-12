@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT - Update-1"
+example.property: "I AM IN THE DEFAULT - Update-2"
 spring.jpa.hibernate.ddl-auto: none
 spring.datasource.url: jdbc:mysql://localhost:3306/autobots_dev
 spring.datasource.username: root
